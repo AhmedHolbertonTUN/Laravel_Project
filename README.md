@@ -11,7 +11,7 @@
 ## About :
 
 
-Simple web application (product list): with CRUD (Create, Read, Update, Delete) of Laravel framework.
+Simple web application (product list): with CRUD operations (Create, Read, Update, Delete) of Laravel framework.
 Tools: Laravel 8, HTML, CSS, Bootstrap 4
 
 ## Tools :
